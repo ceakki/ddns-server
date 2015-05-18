@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ddns-server.iml" filepath="$PROJECT_DIR$/.idea/ddns-server.iml" />
+      <module fileurl="file:///mnt/Data/git/dns-server/.idea/ddns-server.iml" filepath="/mnt/Data/git/dns-server/.idea/ddns-server.iml" />
+    </modules>
+  </component>
+</project>
